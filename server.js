@@ -6,8 +6,6 @@ const db = require('./db')
 
 const { startSync } = require('./sync')
 
-app.use(express.json()) //
-
 app.use('/api', apiRoutes)
 
 db.sync({ force: false })
