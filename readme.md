@@ -13,11 +13,11 @@ Node.js сервис для отслеживания популярных реп
 
 ## Используемые инструменты
 
-express - для http сервера
-axios - для http запросов
-pg - клиент для PostgreSQL
-sequelize — ORM для работы с базами данных
-commander - для создания CLI
+- express - для http сервера
+- axios - для http запросов
+- pg - клиент для PostgreSQL
+- sequelize — ORM для работы с базами данных
+- commander - для создания CLI
 
 ## Быстрый старт
 
